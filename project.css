@@ -1,0 +1,49 @@
+.box1{
+    height: 100vh;
+    background-image: url("b2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box2{
+    height: 100vh;
+    background-image: url("b10.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box3{
+    height: 100vh;
+    background-image: url("b12.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box4{
+    height: 100vh;
+    background-image: url("b14.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    color: rgb(0, 255, 255);
+    
+}
+ol ,li{
+    color: rgb(255, 0, 60);
+}   
+a{
+    color: white;
+    background-color: black;
+}
+
+
+label{
+    color: rgb(255, 94, 0);
+    font-size: 17px;
+}
